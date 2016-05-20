@@ -27,5 +27,14 @@
 ![](https://github.com/Wangzhengwhu/Homework-9/blob/master/6.png)  
 以上2图显示了在初始的角度相差0.001°的情形下，角速度随时间的变化，其中第一幅图的FD=1.2，第二幅为0.5。说明了在不同大小的驱动力下，周期性变化巨大。  
 
+[程序3](https://github.com/Wangzhengwhu/Homework-9/blob/master/%E7%A8%8B%E5%BA%8F3.py)  
+![](https://github.com/Wangzhengwhu/Homework-9/blob/master/4.png)  
+上图显示了在驱动力为0.5时没有出现混沌现象，为1.2时出现混沌现象。  
+
+##结论
+混沌想象的出现与外加驱动力的周期，振幅都有关系，还与耗散大小相关，在初始值相差很小的情况下，经过一段时间会出现截然相反的情况。
+
+##致谢
+感谢刘星辰同学提供的程序
 
 
